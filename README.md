@@ -17,6 +17,6 @@ The useful tools used in the project including:
  - Canny Edge Detection 
  - Hough Tranform line detection
  
- Check out [Project-Writeup](./Project-Writeup.md)
+ Check out [Project_Writeup](./Project_Writeup.md)
  
  ![alt text][image]
