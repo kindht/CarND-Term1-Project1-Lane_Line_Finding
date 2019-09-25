@@ -85,5 +85,5 @@ Another shortcoming could be that lanes can not be drawn prefectly when there ar
 
 A possible improvement would be implement a better algorithm for curved lanes ,  i.e. to figure out a better way to calculate  average slope for each lane and better fit them
 
-Another improvement could be using cv2.inRange() to assist the lane detection, while I am not quite sure about it yet
+Another improvement could be using cv2.inRange() to assist the lane detection
 
