@@ -3,7 +3,7 @@
 
 [//]: # (Image References)
 
-[image]: Pass-certificate.png 
+[image]: ./Pass-certificate.png 
 
 This is the 1st project in the course of Self-Driving Car at Udacity
 
@@ -16,5 +16,7 @@ The useful tools used in the project including:
  - Gaussian smoothing, 
  - Canny Edge Detection 
  - Hough Tranform line detection
+ 
+ Check out [Project-Writeup](./Project-Writeup.md)
  
  ![alt text][image]
