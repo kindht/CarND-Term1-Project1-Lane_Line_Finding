@@ -17,7 +17,7 @@ The useful tools used in the project including:
  - Canny Edge Detection 
  - Hough Tranform line detection
  
- Here is the Project file [Proj1.ipynb](./Proj1.ipynb)
+ Here is the Project file [Proj1.ipynb](./Proj1.ipynb)  
  Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
  
  Here is my [Project_Writeup](./Project_Writeup.md)  
@@ -28,7 +28,8 @@ The useful tools used in the project including:
 
 ![alt text][image1.1]
 
-[output video](./)
+[output video1 - solidWhiteRight.mp4](./solidWhiteRight.mp4)  
+[output video2 - solidYellowLeft.mp4](./solidYellowLeft.mp4)
 
 ---
 #### Certificate for the Project Completion
