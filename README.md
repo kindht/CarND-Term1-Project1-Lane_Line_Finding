@@ -5,7 +5,7 @@
 [image1]: ./examples/example.gif
 [image2]: ./Pass-certificate.png
 
-This is the 1st project in the course of Self-Driving Car at Udacity
+This is the 1st project for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
 
 The project used **Python** and **OpenCV** (Open-Source Computer Vision) to detect lane lines in images and videos. 
 
