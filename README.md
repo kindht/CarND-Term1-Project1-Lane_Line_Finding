@@ -7,7 +7,7 @@
 
 This is the 1st project in the course of Self-Driving Car at Udacity
 
-The project used Python and OpenCV (Open-Source Computer Vision) to detect lane lines in images and videos. 
+The project used **Python** and **OpenCV** (Open-Source Computer Vision) to detect lane lines in images and videos. 
 
 The useful tools used in the project including:
  - Color selection 
