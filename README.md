@@ -20,7 +20,7 @@ The useful tools used in the project including:
  Here is the Project file [Proj1.ipynb](./Proj1.ipynb)  
  Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
  
- Here is my [Project Writeup](./Project_Writeup.md)  
+ Here is my [Project Report/Writeup](./Project_Writeup.md)  
  Check out  [Project Requirements](./Project_README.md)
  
 ---
