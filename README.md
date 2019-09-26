@@ -2,7 +2,7 @@
 # CarND-Project1-Lane_Line_Finding
 
 [//]: # (Image References)
-[image1.1]: ./examples/example.gif
+[image1]: ./examples/example.gif
 [image2]: ./Pass-certificate.png
 
 This is the 1st project in the course of Self-Driving Car at Udacity
@@ -26,7 +26,7 @@ The useful tools used in the project including:
 ---
 #### Example output 
 
-![alt text][image1.1]
+![alt text][image1]
 
 [output video1 - solidWhiteRight.mp4](./solidWhiteRight.mp4)  
 [output video2 - solidYellowLeft.mp4](./solidYellowLeft.mp4)
