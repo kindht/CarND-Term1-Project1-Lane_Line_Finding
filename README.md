@@ -2,8 +2,8 @@
 # CarND-Project1-Lane_Line_Finding
 
 [//]: # (Image References)
-
-[image]: ./Pass-certificate.png 
+[image1.1]: ./examples/example.gif
+[image2]: ./Pass-certificate.png
 
 This is the 1st project in the course of Self-Driving Car at Udacity
 
@@ -17,8 +17,19 @@ The useful tools used in the project including:
  - Canny Edge Detection 
  - Hough Tranform line detection
  
- Here is my [Project_Writeup](./Project_Writeup.md)
+ Here is the Project file [Proj1.ipynb](./Proj1.ipynb)
+ Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
  
+ Here is my [Project_Writeup](./Project_Writeup.md)  
  Check out  [Project Requirements](./Project_README.md)
  
- ![alt text][image]
+---
+#### Example output 
+
+![alt text][image1.1]
+
+[output video](./)
+
+---
+#### Certificate for the Project Completion
+![alt text][image2]
