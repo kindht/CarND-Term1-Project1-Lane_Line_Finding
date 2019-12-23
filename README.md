@@ -26,11 +26,11 @@ The useful tools used in the project including:
 ---
 #### Example output 
 
-![alt text][image1]
+![](./examples/example.gif)
 
 [output video1 - solidWhiteRight.mp4](./solidWhiteRight.mp4)  
 [output video2 - solidYellowLeft.mp4](./solidYellowLeft.mp4)
 
 ---
 #### Certificate for the Project Completion
-![alt text][image2]
+![](./Pass-certificate.png)
