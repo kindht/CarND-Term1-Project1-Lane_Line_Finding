@@ -1,11 +1,11 @@
-# 无人驾驶纳米学位 - 项目1 - 车道线检测
-# CarND-Project1-Lane_Line_Finding
+# 无人驾驶纳米学位-第一学期-项目1-车道线检测
+# CarND-Term1-Project1-Lane_Line_Finding
 
 [//]: # (Image References)
 [image1]: ./examples/example.gif
 [image2]: ./Pass-certificate.png
 
-This is the 1st project for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
+This is the 1st project in Term1 for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
 
 The project used **Python** and **OpenCV** (Open-Source Computer Vision) to detect lane lines in images and videos. 
 
