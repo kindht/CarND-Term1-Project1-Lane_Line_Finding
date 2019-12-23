@@ -1,5 +1,5 @@
 # 无人驾驶纳米学位-第一学期-项目1-车道线检测
-# CarND-Term1-Project1-Lane_Line_Finding
+# CarND-Term1-Project1-Lane_Line_Finding(Python OpenCV)
 
 [//]: # (Image References)
 [image1]: ./examples/example.gif
